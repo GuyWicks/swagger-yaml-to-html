@@ -1,6 +1,6 @@
 # Swagger YAML into HTML
 
-![ScreenShot](https://github.com/gwcks/swagger-yaml-to-html/blob/master/screenshot-1.png?raw=true "ScreenShot")
+![ScreenShot](https://github.com/yousan/swagger-yaml-to-html/blob/master/screenshot-1.png?raw=true "ScreenShot")
 
 # How To Use
 ```
